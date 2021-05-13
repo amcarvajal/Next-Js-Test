@@ -60,10 +60,10 @@ export default css`
     }
 
     main:hover {
-    animation-name: happyBox;
+    /* animation-name: happyBox;
     animation-duration: 2s;
     animation-iteration-count: infinite;
-    transition: 1s;
+    transition: 1s; */
     }
 
     @keyframes happyBox {
